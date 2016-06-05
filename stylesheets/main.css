@@ -110,3 +110,9 @@ countdown-timer {
  	height: 40px; 
  	text-align: center;
  }
+ .contact-icon {
+ 	font-size: 20px;
+ }
+ .contact-icon a {
+ 	color: #919191;
+ }
